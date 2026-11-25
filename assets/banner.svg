@@ -24,16 +24,6 @@
       <stop offset="100%" stop-color="#4facfe" stop-opacity="0" />
     </linearGradient>
 
-    <linearGradient id="androidGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3ddc84" />
-      <stop offset="100%" stop-color="#10b981" />
-    </linearGradient>
-
-    <linearGradient id="npuGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#f59e0b" />
-      <stop offset="100%" stop-color="#ef4444" />
-    </linearGradient>
-
     <linearGradient id="streamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
       <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.8" />
@@ -58,23 +48,18 @@
     .pulse-glow { animation: pulse 3s ease-in-out infinite alternate; }
     .floating-card { animation: float 4s ease-in-out infinite alternate; }
     .floating-card-delay { animation: float 4.5s ease-in-out 1.5s infinite alternate; }
-    .orbit-point { animation: orbit 8s linear infinite; }
 
     @keyframes streamAnim {
       0% { stroke-dashoffset: 240; }
       100% { stroke-dashoffset: -240; }
     }
     @keyframes pulse {
-      0% { opacity: 0.35; transform: scale(0.98); }
-      100% { opacity: 0.75; transform: scale(1.02); }
+      0% { opacity: 0.35; }
+      100% { opacity: 0.75; }
     }
     @keyframes float {
       0% { transform: translateY(0px); }
       100% { transform: translateY(-7px); }
-    }
-    @keyframes orbit {
-      from { stroke-dashoffset: 0; }
-      to { stroke-dashoffset: 400; }
     }
   </style>
 
@@ -160,7 +145,7 @@
     <text x="32" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="11" fill="#e2e8f0">100% Offline RAG</text>
   </g>
 
-  <!-- FOREGROUND HERO HEADER & TEXT (Guaranteed Unobscured & Crisp) -->
+  <!-- FOREGROUND HERO HEADER &amp; TEXT (Guaranteed Unobscured &amp; Crisp) -->
   <g transform="translate(60, 48)">
     <!-- Top Pill / Badge -->
     <rect x="0" y="0" width="285" height="30" rx="15" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" />
@@ -219,7 +204,7 @@
     <!-- Bottom Feature Status Bar -->
     <g transform="translate(0, 285)">
       <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#64748b">
-        ⚡ Hardware Accelerated (QNN / Vulkan / OpenCL / Metal) &nbsp;•&nbsp; 🔒 100% Offline Privacy &nbsp;•&nbsp; 🔋 Battery Optimized
+        ⚡ Hardware Accelerated (QNN / Vulkan / OpenCL / Metal) &#8226; 🔒 100% Offline Privacy &#8226; 🔋 Battery Optimized
       </text>
     </g>
   </g>
