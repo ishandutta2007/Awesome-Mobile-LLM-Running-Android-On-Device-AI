@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI?color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Mobile-LLM-Running-Android-On-Device-AI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -67,9 +67,9 @@ Below is an exhaustive breakdown of commercial and SaaS developer platforms faci
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source mobile LLM runtimes, Termux server harnesses, and on-device frontends. Sorted in descending order by **GitHub Star Counts** ⭐.
+Curated list of open-source mobile LLM runtimes, Termux server harnesses, and on-device frontends. Sorted in descending order by **GitHub Stars_Counts** ⭐.
 
-| 📦 Repository | ⭐ GitHub Stars | 🎯 Category / Primary Focus | 🛠️ Supported Hardware & Ecosystem |
+| 📦 Repository | ⭐ GitHub_Stars | 🎯 Category / Primary Focus | 🛠️ Supported Hardware & Ecosystem |
 | :--- | :--- | :--- | :--- |
 | **[ollama/ollama](https://github.com/ollama/ollama)** | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Local LLM Runner & Server | CPU, ARM64, Termux PRoot, LAN companion serving |
 | **[ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)** | [![Stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social&color=white)](https://github.com/ggerganov/llama.cpp/stargazers) | Foundational C/C++ Inference Runtime | Android NDK, ARM NEON, Vulkan GPU, Qualcomm KleidiAI, OpenCL |
