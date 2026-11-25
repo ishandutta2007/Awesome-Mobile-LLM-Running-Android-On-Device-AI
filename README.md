@@ -67,7 +67,7 @@ Below is an exhaustive breakdown of commercial and SaaS developer platforms faci
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source mobile LLM runtimes, Termux server harnesses, and on-device frontends. Sorted in descending order by **GitHub Stars_Counts** ⭐.
+Curated list of open-source mobile LLM runtimes, Termux server harnesses, and on-device frontends. Sorted in descending order by **GitHub_Stars_Counts** ⭐.
 
 | 📦 Repository | ⭐ GitHub_Stars | 🎯 Category / Primary Focus | 🛠️ Supported Hardware & Ecosystem |
 | :--- | :--- | :--- | :--- |
